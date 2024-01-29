@@ -1,4 +1,5 @@
 // Educational Smart Contract Example for Company 3 with Vulnerabilities
+// Solomon Olalekan Awoyemi
 pragma solidity ^0.8.0;
 
 contract VulnerableTokenSwap {

@@ -1,4 +1,5 @@
 // Educational Smart Contract Example with Vulnerabilities
+// Edwin Anajemba
 pragma solidity ^0.8.0;
 
 contract VulnerableToken {

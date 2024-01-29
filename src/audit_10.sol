@@ -1,4 +1,5 @@
 // Educational Smart Contract Example for Company 10 with Additional Vulnerabilities
+// Gbenga Etomu
 pragma solidity ^0.8.0;
 
 contract VulnerableVoting {

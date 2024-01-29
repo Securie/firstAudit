@@ -1,4 +1,5 @@
 // Educational Smart Contract Example for Company 5 with Additional Vulnerabilities
+// Adeola David Adelakun
 pragma solidity ^0.8.0;
 
 contract VulnerableTokenSale {

@@ -1,4 +1,5 @@
 // Educational Smart Contract Example for Company 7 with Additional Vulnerabilities
+// Joshua Iluma
 pragma solidity ^0.8.0;
 
 contract VulnerableEscrow {
