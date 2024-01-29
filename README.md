@@ -242,7 +242,7 @@ This document provides a comprehensive audit report for the smart contract assoc
 #### Definitions of Technical Jargon
 [Provide definitions for technical terms]
 
-#### Submission steps
+## XI. Submission steps
 1. **Create a Gist:**
    - Go to [GitHub Gist](https://gist.github.com/).
    - Log in to your GitHub account if you haven't already.
