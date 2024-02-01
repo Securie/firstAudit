@@ -1,6 +1,6 @@
 // Educational Smart Contract Example for Company 2 with Vulnerabilities
 // Wale Oladeinde
-pragma solidity ^0.8.0;
+pragma solidity 0.8.0;
 
 contract VulnerableCrowdsale {
     address public owner;

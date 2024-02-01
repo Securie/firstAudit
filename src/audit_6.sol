@@ -1,6 +1,6 @@
 // Educational Smart Contract Example for Company 6 with Additional Vulnerabilities
 // Samson Okechukwu
-pragma solidity ^0.8.0;
+pragma solidity 0.8.0;
 
 contract VulnerableMultiSigWallet {
     address public owner;

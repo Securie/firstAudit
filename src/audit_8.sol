@@ -1,6 +1,6 @@
 // Educational Smart Contract Example for Company 8 with Additional Vulnerabilities
 // Olaniyan Abdullah
-pragma solidity ^0.8.0;
+pragma solidity 0.8.0;
 
 contract VulnerableSubscription {
     address public owner;

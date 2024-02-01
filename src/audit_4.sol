@@ -1,6 +1,6 @@
 // Educational Smart Contract Example for Company 4 with Additional Vulnerabilities
 // Kayode Ajala
-pragma solidity ^0.8.0;
+pragma solidity 0.8.0;
 
 contract VulnerableAuction {
     address public owner;

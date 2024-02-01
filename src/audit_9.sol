@@ -1,6 +1,6 @@
 // Educational Smart Contract Example for Company 9 with Additional Vulnerabilities
 // Segun Etomu
-pragma solidity ^0.8.0;
+pragma solidity 0.8.0;
 
 contract VulnerableFundPooling {
     address public owner;
